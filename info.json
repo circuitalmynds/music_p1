@@ -1,6 +1,7 @@
 {
     "available_space": true,
-    "files": [
+    "total_size": 511.7986,
+    "videos": [
         "Pantera - I'm Broken (Official Music Video)-2-V8kYT1pvE.mp4",
         "Pero Te Voy A Olvidar _ Conjunto Azabache (Tema de video)-l7b9s1pr0gM.mp4",
         "Peligro-7NDGKdRJKaY.mp4",
@@ -49,7 +50,5 @@
         "Pesado - Me Refiero A Ti ft. Lalo Mora (Live at Nuevo León México)-Qkvzpiem9_A.mp4",
         "Pesado - Por amores-p0pIpM1scWI.mp4",
         "Piensa y Lucha II-80NAXXQXFrM.mp4"
-    ],
-    "id": "p1",
-    "total_size": 488.0891962890626
+    ]
 }
