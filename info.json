@@ -52,6 +52,11 @@
             "size": 13.940947968000001
         },
         {
+            "name": "Antonio Vivaldi - Cantate 'Cessate, omai cessate' - ' Ah, ch'infelice sempre'-Z39KxbbtCC0.mp4",
+            "path": "music_p1/videos/Antonio Vivaldi - Cantate 'Cessate, omai cessate' - ' Ah, ch'infelice sempre'-Z39KxbbtCC0.mp4",
+            "size": 8.568674304
+        },
+        {
             "name": "Pesado - Me mocho un dedo [Canciones con letra]-MKZzZmCCQsI.mp4",
             "path": "music_p1/videos/Pesado - Me mocho un dedo [Canciones con letra]-MKZzZmCCQsI.mp4",
             "size": 6.189860864000001
@@ -287,5 +292,5 @@
             "size": 4.6718146560000005
         }
     ],
-    "total_size": 629.934334976
+    "total_size": 638.5030092799999
 }
