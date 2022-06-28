@@ -1,301 +1,361 @@
 {
     "available_space": true,
-    "files": [
+    "content": [
         {
             "name": "Conjunto Primavera - Mi Sacrificio-N4b_tAz1t5I.mp4",
-            "path": "music_p1/videos/Conjunto Primavera - Mi Sacrificio-N4b_tAz1t5I.mp4",
-            "size": 5.3194752
+            "path": "p1/videos/Conjunto Primavera - Mi Sacrificio-N4b_tAz1t5I.mp4",
+            "size": 5.3194752,
+            "url": "https://github.com/circuitalmynds/music_p1/blob/main/videos/Conjunto Primavera - Mi Sacrificio-N4b_tAz1t5I.mp4?raw=true"
         },
         {
             "name": "Pesado - Pequeño amor [Canciones con letra]-XJcQgT1TqbU.mp4",
-            "path": "music_p1/videos/Pesado - Pequeño amor [Canciones con letra]-XJcQgT1TqbU.mp4",
-            "size": 4.831314944000001
+            "path": "p1/videos/Pesado - Pequeño amor [Canciones con letra]-XJcQgT1TqbU.mp4",
+            "size": 4.831314944000001,
+            "url": "https://github.com/circuitalmynds/music_p1/blob/main/videos/Pesado - Pequeño amor [Canciones con letra]-XJcQgT1TqbU.mp4?raw=true"
         },
         {
             "name": "Pantera - Walk (Official Music Video)-AkFqg5wAuFk.mp4",
-            "path": "music_p1/videos/Pantera - Walk (Official Music Video)-AkFqg5wAuFk.mp4",
-            "size": 26.937636864
+            "path": "p1/videos/Pantera - Walk (Official Music Video)-AkFqg5wAuFk.mp4",
+            "size": 26.937636864,
+            "url": "https://github.com/circuitalmynds/music_p1/blob/main/videos/Pantera - Walk (Official Music Video)-AkFqg5wAuFk.mp4?raw=true"
         },
         {
             "name": "Pesado - Humillate (Video Oficial)-eQe-Vdk-3S0.mp4",
-            "path": "music_p1/videos/Pesado - Humillate (Video Oficial)-eQe-Vdk-3S0.mp4",
-            "size": 14.526852096
+            "path": "p1/videos/Pesado - Humillate (Video Oficial)-eQe-Vdk-3S0.mp4",
+            "size": 14.526852096,
+            "url": "https://github.com/circuitalmynds/music_p1/blob/main/videos/Pesado - Humillate (Video Oficial)-eQe-Vdk-3S0.mp4?raw=true"
         },
         {
             "name": "Pesado - Ahora Que Te Vas (Sizzur's Jamz)-j0HnZwSL0n8.mp4",
-            "path": "music_p1/videos/Pesado - Ahora Que Te Vas (Sizzur's Jamz)-j0HnZwSL0n8.mp4",
-            "size": 3.3346406400000004
+            "path": "p1/videos/Pesado - Ahora Que Te Vas (Sizzur's Jamz)-j0HnZwSL0n8.mp4",
+            "size": 3.3346406400000004,
+            "url": "https://github.com/circuitalmynds/music_p1/blob/main/videos/Pesado - Ahora Que Te Vas (Sizzur's Jamz)-j0HnZwSL0n8.mp4?raw=true"
         },
         {
             "name": "Pantera - I'm Broken (Official Music Video)-2-V8kYT1pvE.mp4",
-            "path": "music_p1/videos/Pantera - I'm Broken (Official Music Video)-2-V8kYT1pvE.mp4",
-            "size": 25.34185472
+            "path": "p1/videos/Pantera - I'm Broken (Official Music Video)-2-V8kYT1pvE.mp4",
+            "size": 25.34185472,
+            "url": "https://github.com/circuitalmynds/music_p1/blob/main/videos/Pantera - I'm Broken (Official Music Video)-2-V8kYT1pvE.mp4?raw=true"
         },
         {
             "name": "Por el túnel-q3_BHPFUmuU.mp4",
-            "path": "music_p1/videos/Por el túnel-q3_BHPFUmuU.mp4",
-            "size": 4.839318528000001
+            "path": "p1/videos/Por el túnel-q3_BHPFUmuU.mp4",
+            "size": 4.839318528000001,
+            "url": "https://github.com/circuitalmynds/music_p1/blob/main/videos/Por el túnel-q3_BHPFUmuU.mp4?raw=true"
         },
         {
             "name": "Peligro-7NDGKdRJKaY.mp4",
-            "path": "music_p1/videos/Peligro-7NDGKdRJKaY.mp4",
-            "size": 5.955043328
+            "path": "p1/videos/Peligro-7NDGKdRJKaY.mp4",
+            "size": 5.955043328,
+            "url": "https://github.com/circuitalmynds/music_p1/blob/main/videos/Peligro-7NDGKdRJKaY.mp4?raw=true"
         },
         {
             "name": "Por Infamias Del Destino-6cnIhV-SJFI.mp4",
-            "path": "music_p1/videos/Por Infamias Del Destino-6cnIhV-SJFI.mp4",
-            "size": 5.942603776
+            "path": "p1/videos/Por Infamias Del Destino-6cnIhV-SJFI.mp4",
+            "size": 5.942603776,
+            "url": "https://github.com/circuitalmynds/music_p1/blob/main/videos/Por Infamias Del Destino-6cnIhV-SJFI.mp4?raw=true"
         },
         {
             "name": "Al Bowlly - The Very Thought of You-qEdU2vg0Hac.mp4",
-            "path": "music_p1/videos/Al Bowlly - The Very Thought of You-qEdU2vg0Hac.mp4",
-            "size": 3.8272768000000004
+            "path": "p1/videos/Al Bowlly - The Very Thought of You-qEdU2vg0Hac.mp4",
+            "size": 3.8272768000000004,
+            "url": "https://github.com/circuitalmynds/music_p1/blob/main/videos/Al Bowlly - The Very Thought of You-qEdU2vg0Hac.mp4?raw=true"
         },
         {
             "name": "Pero Te Voy A Olvidar _ Conjunto Azabache (Tema de video)-l7b9s1pr0gM.mp4",
-            "path": "music_p1/videos/Pero Te Voy A Olvidar _ Conjunto Azabache (Tema de video)-l7b9s1pr0gM.mp4",
-            "size": 8.67558912
+            "path": "p1/videos/Pero Te Voy A Olvidar _ Conjunto Azabache (Tema de video)-l7b9s1pr0gM.mp4",
+            "size": 8.67558912,
+            "url": "https://github.com/circuitalmynds/music_p1/blob/main/videos/Pero Te Voy A Olvidar _ Conjunto Azabache (Tema de video)-l7b9s1pr0gM.mp4?raw=true"
         },
         {
             "name": "Pienso En Ella-vjbtNCyEw4w.mp4",
-            "path": "music_p1/videos/Pienso En Ella-vjbtNCyEw4w.mp4",
-            "size": 4.79281152
+            "path": "p1/videos/Pienso En Ella-vjbtNCyEw4w.mp4",
+            "size": 4.79281152,
+            "url": "https://github.com/circuitalmynds/music_p1/blob/main/videos/Pienso En Ella-vjbtNCyEw4w.mp4?raw=true"
         },
         {
             "name": "Pesado - Dices Ya No (En Vivo)-iW1uQ6cYMpg.mp4",
-            "path": "music_p1/videos/Pesado - Dices Ya No (En Vivo)-iW1uQ6cYMpg.mp4",
-            "size": 12.282491904
+            "path": "p1/videos/Pesado - Dices Ya No (En Vivo)-iW1uQ6cYMpg.mp4",
+            "size": 12.282491904,
+            "url": "https://github.com/circuitalmynds/music_p1/blob/main/videos/Pesado - Dices Ya No (En Vivo)-iW1uQ6cYMpg.mp4?raw=true"
         },
         {
             "name": "Proceso de recolección y destilación de la lavanda, empresa Alcarria Flora-q6lAMCgxh9U.mp4",
-            "path": "music_p1/videos/Proceso de recolección y destilación de la lavanda, empresa Alcarria Flora-q6lAMCgxh9U.mp4",
-            "size": 51.542160384000006
+            "path": "p1/videos/Proceso de recolección y destilación de la lavanda, empresa Alcarria Flora-q6lAMCgxh9U.mp4",
+            "size": 51.542160384000006,
+            "url": "https://github.com/circuitalmynds/music_p1/blob/main/videos/Proceso de recolección y destilación de la lavanda, empresa Alcarria Flora-q6lAMCgxh9U.mp4?raw=true"
         },
         {
             "name": "Pesado - Por amores-p0pIpM1scWI.mp4",
-            "path": "music_p1/videos/Pesado - Por amores-p0pIpM1scWI.mp4",
-            "size": 10.387092480000002
+            "path": "p1/videos/Pesado - Por amores-p0pIpM1scWI.mp4",
+            "size": 10.387092480000002,
+            "url": "https://github.com/circuitalmynds/music_p1/blob/main/videos/Pesado - Por amores-p0pIpM1scWI.mp4?raw=true"
         },
         {
             "name": "Pesado - Flor De Capomo  ft. Carlos Tierranegra (Live at Nuevo León México)-1gIZEw-5VyU.mp4",
-            "path": "music_p1/videos/Pesado - Flor De Capomo  ft. Carlos Tierranegra (Live at Nuevo León México)-1gIZEw-5VyU.mp4",
-            "size": 19.207262208
+            "path": "p1/videos/Pesado - Flor De Capomo  ft. Carlos Tierranegra (Live at Nuevo León México)-1gIZEw-5VyU.mp4",
+            "size": 19.207262208,
+            "url": "https://github.com/circuitalmynds/music_p1/blob/main/videos/Pesado - Flor De Capomo  ft. Carlos Tierranegra (Live at Nuevo León México)-1gIZEw-5VyU.mp4?raw=true"
         },
         {
             "name": "Pixies - Dead (Peel Session)-ahM1bxAt0zk.mp4",
-            "path": "music_p1/videos/Pixies - Dead (Peel Session)-ahM1bxAt0zk.mp4",
-            "size": 1.842419712
+            "path": "p1/videos/Pixies - Dead (Peel Session)-ahM1bxAt0zk.mp4",
+            "size": 1.842419712,
+            "url": "https://github.com/circuitalmynds/music_p1/blob/main/videos/Pixies - Dead (Peel Session)-ahM1bxAt0zk.mp4?raw=true"
         },
         {
             "name": "13.-PESADO - TU COMO SI NADA (EN VIVO) 10 AÑOS EXPO GUADALUPE 2003-ns10uMZN7Xo.mp4",
-            "path": "music_p1/videos/13.-PESADO - TU COMO SI NADA (EN VIVO) 10 AÑOS EXPO GUADALUPE 2003-ns10uMZN7Xo.mp4",
-            "size": 6.8324096
+            "path": "p1/videos/13.-PESADO - TU COMO SI NADA (EN VIVO) 10 AÑOS EXPO GUADALUPE 2003-ns10uMZN7Xo.mp4",
+            "size": 6.8324096,
+            "url": "https://github.com/circuitalmynds/music_p1/blob/main/videos/13.-PESADO - TU COMO SI NADA (EN VIVO) 10 AÑOS EXPO GUADALUPE 2003-ns10uMZN7Xo.mp4?raw=true"
         },
         {
             "name": "Platero y tu - Cigarrito-Ua1fJFS7Z1k.mp4",
-            "path": "music_p1/videos/Platero y tu - Cigarrito-Ua1fJFS7Z1k.mp4",
-            "size": 7.580418048
+            "path": "p1/videos/Platero y tu - Cigarrito-Ua1fJFS7Z1k.mp4",
+            "size": 7.580418048,
+            "url": "https://github.com/circuitalmynds/music_p1/blob/main/videos/Platero y tu - Cigarrito-Ua1fJFS7Z1k.mp4?raw=true"
         },
         {
             "name": "Antonio Vivaldi - Cantate 'Cessate, omai cessate' - ' Ah, ch'infelice sempre'-Z39KxbbtCC0.mp4",
-            "path": "music_p1/videos/Antonio Vivaldi - Cantate 'Cessate, omai cessate' - ' Ah, ch'infelice sempre'-Z39KxbbtCC0.mp4",
-            "size": 8.568674304
+            "path": "p1/videos/Antonio Vivaldi - Cantate 'Cessate, omai cessate' - ' Ah, ch'infelice sempre'-Z39KxbbtCC0.mp4",
+            "size": 8.568674304,
+            "url": "https://github.com/circuitalmynds/music_p1/blob/main/videos/Antonio Vivaldi - Cantate 'Cessate, omai cessate' - ' Ah, ch'infelice sempre'-Z39KxbbtCC0.mp4?raw=true"
         },
         {
             "name": "Swimming Tapes - Morningside [Full Album]-jmyDo0CgEX0.mp4",
-            "path": "music_p1/videos/Swimming Tapes - Morningside [Full Album]-jmyDo0CgEX0.mp4",
-            "size": 38.825653248
+            "path": "p1/videos/Swimming Tapes - Morningside [Full Album]-jmyDo0CgEX0.mp4",
+            "size": 38.825653248,
+            "url": "https://github.com/circuitalmynds/music_p1/blob/main/videos/Swimming Tapes - Morningside [Full Album]-jmyDo0CgEX0.mp4?raw=true"
         },
         {
             "name": "Piensa y Lucha II-80NAXXQXFrM.mp4",
-            "path": "music_p1/videos/Piensa y Lucha II-80NAXXQXFrM.mp4",
-            "size": 4.6718146560000005
+            "path": "p1/videos/Piensa y Lucha II-80NAXXQXFrM.mp4",
+            "size": 4.6718146560000005,
+            "url": "https://github.com/circuitalmynds/music_p1/blob/main/videos/Piensa y Lucha II-80NAXXQXFrM.mp4?raw=true"
         },
         {
             "name": "Pesado, Eliseo Robles - Tragos Amargos (Live At Nuevo León México_2009)-ccJBypHuPkc.mp4",
-            "path": "music_p1/videos/Pesado, Eliseo Robles - Tragos Amargos (Live At Nuevo León México_2009)-ccJBypHuPkc.mp4",
-            "size": 11.790144512000001
+            "path": "p1/videos/Pesado, Eliseo Robles - Tragos Amargos (Live At Nuevo León México_2009)-ccJBypHuPkc.mp4",
+            "size": 11.790144512000001,
+            "url": "https://github.com/circuitalmynds/music_p1/blob/main/videos/Pesado, Eliseo Robles - Tragos Amargos (Live At Nuevo León México_2009)-ccJBypHuPkc.mp4?raw=true"
         },
         {
             "name": "Pata Negra - Pasa la Vida-Ckulz6XTXnw.mp4",
-            "path": "music_p1/videos/Pata Negra - Pasa la Vida-Ckulz6XTXnw.mp4",
-            "size": 6.2760796160000005
+            "path": "p1/videos/Pata Negra - Pasa la Vida-Ckulz6XTXnw.mp4",
+            "size": 6.2760796160000005,
+            "url": "https://github.com/circuitalmynds/music_p1/blob/main/videos/Pata Negra - Pasa la Vida-Ckulz6XTXnw.mp4?raw=true"
         },
         {
             "name": "pesado - se que no volveras-iX_0c0-oSJE.mp4",
-            "path": "music_p1/videos/pesado - se que no volveras-iX_0c0-oSJE.mp4",
-            "size": 7.091607552
+            "path": "p1/videos/pesado - se que no volveras-iX_0c0-oSJE.mp4",
+            "size": 7.091607552,
+            "url": "https://github.com/circuitalmynds/music_p1/blob/main/videos/pesado - se que no volveras-iX_0c0-oSJE.mp4?raw=true"
         },
         {
             "name": "Pesado - Te lo pido por favor [Canciones con letra]-BXl30ZWa1vE.mp4",
-            "path": "music_p1/videos/Pesado - Te lo pido por favor [Canciones con letra]-BXl30ZWa1vE.mp4",
-            "size": 5.14509824
+            "path": "p1/videos/Pesado - Te lo pido por favor [Canciones con letra]-BXl30ZWa1vE.mp4",
+            "size": 5.14509824,
+            "url": "https://github.com/circuitalmynds/music_p1/blob/main/videos/Pesado - Te lo pido por favor [Canciones con letra]-BXl30ZWa1vE.mp4?raw=true"
         },
         {
             "name": "Bert Lown's Orch. - Never, 1931-cun4NSsM5d0.mp4",
-            "path": "music_p1/videos/Bert Lown's Orch. - Never, 1931-cun4NSsM5d0.mp4",
-            "size": 10.172238848000001
+            "path": "p1/videos/Bert Lown's Orch. - Never, 1931-cun4NSsM5d0.mp4",
+            "size": 10.172238848000001,
+            "url": "https://github.com/circuitalmynds/music_p1/blob/main/videos/Bert Lown's Orch. - Never, 1931-cun4NSsM5d0.mp4?raw=true"
         },
         {
             "name": "PLATERO Y TU - Juliette - Videoclip-hu9ZWAqNZ_0.mp4",
-            "path": "music_p1/videos/PLATERO Y TU - Juliette - Videoclip-hu9ZWAqNZ_0.mp4",
-            "size": 18.855442432
+            "path": "p1/videos/PLATERO Y TU - Juliette - Videoclip-hu9ZWAqNZ_0.mp4",
+            "size": 18.855442432,
+            "url": "https://github.com/circuitalmynds/music_p1/blob/main/videos/PLATERO Y TU - Juliette - Videoclip-hu9ZWAqNZ_0.mp4?raw=true"
         },
         {
             "name": "Strictly From Dixie-9Klu-10J4RI.mp4",
-            "path": "music_p1/videos/Strictly From Dixie-9Klu-10J4RI.mp4",
-            "size": 3.078424576
+            "path": "p1/videos/Strictly From Dixie-9Klu-10J4RI.mp4",
+            "size": 3.078424576,
+            "url": "https://github.com/circuitalmynds/music_p1/blob/main/videos/Strictly From Dixie-9Klu-10J4RI.mp4?raw=true"
         },
         {
             "name": "Darktown Strutters Ball-xEe5_ti60Hg.mp4",
-            "path": "music_p1/videos/Darktown Strutters Ball-xEe5_ti60Hg.mp4",
-            "size": 7.0661017600000005
+            "path": "p1/videos/Darktown Strutters Ball-xEe5_ti60Hg.mp4",
+            "size": 7.0661017600000005,
+            "url": "https://github.com/circuitalmynds/music_p1/blob/main/videos/Darktown Strutters Ball-xEe5_ti60Hg.mp4?raw=true"
         },
         {
             "name": "Piero - Coplas de mi País [Canción Oficial] ®-mciV3330VFA.mp4",
-            "path": "music_p1/videos/Piero - Coplas de mi País [Canción Oficial] ®-mciV3330VFA.mp4",
-            "size": 7.959051264
+            "path": "p1/videos/Piero - Coplas de mi País [Canción Oficial] ®-mciV3330VFA.mp4",
+            "size": 7.959051264,
+            "url": "https://github.com/circuitalmynds/music_p1/blob/main/videos/Piero - Coplas de mi País [Canción Oficial] ®-mciV3330VFA.mp4?raw=true"
         },
         {
             "name": "Pesado - Ayúdame A Olvidar (En Vivo)-SbA9G6LUI-I.mp4",
-            "path": "music_p1/videos/Pesado - Ayúdame A Olvidar (En Vivo)-SbA9G6LUI-I.mp4",
-            "size": 13.65773824
+            "path": "p1/videos/Pesado - Ayúdame A Olvidar (En Vivo)-SbA9G6LUI-I.mp4",
+            "size": 13.65773824,
+            "url": "https://github.com/circuitalmynds/music_p1/blob/main/videos/Pesado - Ayúdame A Olvidar (En Vivo)-SbA9G6LUI-I.mp4?raw=true"
         },
         {
             "name": "Pesado - Como Le Hago -  EN VIVO-yZSyVO3EJE4.mp4",
-            "path": "music_p1/videos/Pesado - Como Le Hago -  EN VIVO-yZSyVO3EJE4.mp4",
-            "size": 5.667912704
+            "path": "p1/videos/Pesado - Como Le Hago -  EN VIVO-yZSyVO3EJE4.mp4",
+            "size": 5.667912704,
+            "url": "https://github.com/circuitalmynds/music_p1/blob/main/videos/Pesado - Como Le Hago -  EN VIVO-yZSyVO3EJE4.mp4?raw=true"
         },
         {
             "name": "Pantera - 5 minutes alone _ Ada cover-Xv3L2sXqmVw.mp4",
-            "path": "music_p1/videos/Pantera - 5 minutes alone _ Ada cover-Xv3L2sXqmVw.mp4",
-            "size": 23.142786048
+            "path": "p1/videos/Pantera - 5 minutes alone _ Ada cover-Xv3L2sXqmVw.mp4",
+            "size": 23.142786048,
+            "url": "https://github.com/circuitalmynds/music_p1/blob/main/videos/Pantera - 5 minutes alone _ Ada cover-Xv3L2sXqmVw.mp4?raw=true"
         },
         {
             "name": "Pesado - Me mocho un dedo [Canciones con letra]-MKZzZmCCQsI.mp4",
-            "path": "music_p1/videos/Pesado - Me mocho un dedo [Canciones con letra]-MKZzZmCCQsI.mp4",
-            "size": 6.189860864000001
+            "path": "p1/videos/Pesado - Me mocho un dedo [Canciones con letra]-MKZzZmCCQsI.mp4",
+            "size": 6.189860864000001,
+            "url": "https://github.com/circuitalmynds/music_p1/blob/main/videos/Pesado - Me mocho un dedo [Canciones con letra]-MKZzZmCCQsI.mp4?raw=true"
         },
         {
             "name": "PLATERO Y TU - Alucinante (Video)-waMbw8L7O-s.mp4",
-            "path": "music_p1/videos/PLATERO Y TU - Alucinante (Video)-waMbw8L7O-s.mp4",
-            "size": 12.766879744
+            "path": "p1/videos/PLATERO Y TU - Alucinante (Video)-waMbw8L7O-s.mp4",
+            "size": 12.766879744,
+            "url": "https://github.com/circuitalmynds/music_p1/blob/main/videos/PLATERO Y TU - Alucinante (Video)-waMbw8L7O-s.mp4?raw=true"
         },
         {
             "name": "Paulo Londra - Condenado Para El Millon (Official Video)-bIVIEZNsa_I.mp4",
-            "path": "music_p1/videos/Paulo Londra - Condenado Para El Millon (Official Video)-bIVIEZNsa_I.mp4",
-            "size": 20.694496256
+            "path": "p1/videos/Paulo Londra - Condenado Para El Millon (Official Video)-bIVIEZNsa_I.mp4",
+            "size": 20.694496256,
+            "url": "https://github.com/circuitalmynds/music_p1/blob/main/videos/Paulo Londra - Condenado Para El Millon (Official Video)-bIVIEZNsa_I.mp4?raw=true"
         },
         {
             "name": "PARECES UNA NENA LEO DAN-ocFp8-idGQM.mp4",
-            "path": "music_p1/videos/PARECES UNA NENA LEO DAN-ocFp8-idGQM.mp4",
-            "size": 4.831894528
+            "path": "p1/videos/PARECES UNA NENA LEO DAN-ocFp8-idGQM.mp4",
+            "size": 4.831894528,
+            "url": "https://github.com/circuitalmynds/music_p1/blob/main/videos/PARECES UNA NENA LEO DAN-ocFp8-idGQM.mp4?raw=true"
         },
         {
             "name": "Pixies - Isla De Encanta-3SmmSOsTTsQ.mp4",
-            "path": "music_p1/videos/Pixies - Isla De Encanta-3SmmSOsTTsQ.mp4",
-            "size": 3.197164544
+            "path": "p1/videos/Pixies - Isla De Encanta-3SmmSOsTTsQ.mp4",
+            "size": 3.197164544,
+            "url": "https://github.com/circuitalmynds/music_p1/blob/main/videos/Pixies - Isla De Encanta-3SmmSOsTTsQ.mp4?raw=true"
         },
         {
             "name": "Pesado, Don Ramiro Cavazos - Te Vas Angel Mío (Live at Nuevo León México_2009)-63Dmuk-VrAI.mp4",
-            "path": "music_p1/videos/Pesado, Don Ramiro Cavazos - Te Vas Angel Mío (Live at Nuevo León México_2009)-63Dmuk-VrAI.mp4",
-            "size": 13.940947968000001
+            "path": "p1/videos/Pesado, Don Ramiro Cavazos - Te Vas Angel Mío (Live at Nuevo León México_2009)-63Dmuk-VrAI.mp4",
+            "size": 13.940947968000001,
+            "url": "https://github.com/circuitalmynds/music_p1/blob/main/videos/Pesado, Don Ramiro Cavazos - Te Vas Angel Mío (Live at Nuevo León México_2009)-63Dmuk-VrAI.mp4?raw=true"
         },
         {
             "name": "Por ti Colombia. Piero.--dOKDHW2hlo.mp4",
-            "path": "music_p1/videos/Por ti Colombia. Piero.--dOKDHW2hlo.mp4",
-            "size": 7.865837568000001
+            "path": "p1/videos/Por ti Colombia. Piero.--dOKDHW2hlo.mp4",
+            "size": 7.865837568000001,
+            "url": "https://github.com/circuitalmynds/music_p1/blob/main/videos/Por ti Colombia. Piero.--dOKDHW2hlo.mp4?raw=true"
         },
         {
             "name": "Poolside - Shakedown Street-jqQznao1YXA.mp4",
-            "path": "music_p1/videos/Poolside - Shakedown Street-jqQznao1YXA.mp4",
-            "size": 5.101650944
+            "path": "p1/videos/Poolside - Shakedown Street-jqQznao1YXA.mp4",
+            "size": 5.101650944,
+            "url": "https://github.com/circuitalmynds/music_p1/blob/main/videos/Poolside - Shakedown Street-jqQznao1YXA.mp4?raw=true"
         },
         {
             "name": "18.-PESADO - DE BESO A BESO (EN VIVO) 10 AÑOS EXPO GUADALUPE 2003-7CzYSFObf0Q.mp4",
-            "path": "music_p1/videos/18.-PESADO - DE BESO A BESO (EN VIVO) 10 AÑOS EXPO GUADALUPE 2003-7CzYSFObf0Q.mp4",
-            "size": 4.722247680000001
+            "path": "p1/videos/18.-PESADO - DE BESO A BESO (EN VIVO) 10 AÑOS EXPO GUADALUPE 2003-7CzYSFObf0Q.mp4",
+            "size": 4.722247680000001,
+            "url": "https://github.com/circuitalmynds/music_p1/blob/main/videos/18.-PESADO - DE BESO A BESO (EN VIVO) 10 AÑOS EXPO GUADALUPE 2003-7CzYSFObf0Q.mp4?raw=true"
         },
         {
             "name": "Pesado Tu sombra-GqUjzaZTiEQ.mp4",
-            "path": "music_p1/videos/Pesado Tu sombra-GqUjzaZTiEQ.mp4",
-            "size": 2.8808775680000003
+            "path": "p1/videos/Pesado Tu sombra-GqUjzaZTiEQ.mp4",
+            "size": 2.8808775680000003,
+            "url": "https://github.com/circuitalmynds/music_p1/blob/main/videos/Pesado Tu sombra-GqUjzaZTiEQ.mp4?raw=true"
         },
         {
             "name": "Pesado - Me Refiero A Ti ft. Lalo Mora (Live at Nuevo León México)-Qkvzpiem9_A.mp4",
-            "path": "music_p1/videos/Pesado - Me Refiero A Ti ft. Lalo Mora (Live at Nuevo León México)-Qkvzpiem9_A.mp4",
-            "size": 18.3260416
+            "path": "p1/videos/Pesado - Me Refiero A Ti ft. Lalo Mora (Live at Nuevo León México)-Qkvzpiem9_A.mp4",
+            "size": 18.3260416,
+            "url": "https://github.com/circuitalmynds/music_p1/blob/main/videos/Pesado - Me Refiero A Ti ft. Lalo Mora (Live at Nuevo León México)-Qkvzpiem9_A.mp4?raw=true"
         },
         {
             "name": "Pesado no te extrañare-DLYgSTCtQ5U.mp4",
-            "path": "music_p1/videos/Pesado no te extrañare-DLYgSTCtQ5U.mp4",
-            "size": 8.275185664
+            "path": "p1/videos/Pesado no te extrañare-DLYgSTCtQ5U.mp4",
+            "size": 8.275185664,
+            "url": "https://github.com/circuitalmynds/music_p1/blob/main/videos/Pesado no te extrañare-DLYgSTCtQ5U.mp4?raw=true"
         },
         {
             "name": "esta cobardia julio iglesias-F8dXKDhYbIM.mp4",
-            "path": "music_p1/videos/esta cobardia julio iglesias-F8dXKDhYbIM.mp4",
-            "size": 3.949428736
+            "path": "p1/videos/esta cobardia julio iglesias-F8dXKDhYbIM.mp4",
+            "size": 3.949428736,
+            "url": "https://github.com/circuitalmynds/music_p1/blob/main/videos/esta cobardia julio iglesias-F8dXKDhYbIM.mp4?raw=true"
         },
         {
             "name": "Pesado - Si mides el tamaño [Canciones con letra]-RTTEuupjXlc.mp4",
-            "path": "music_p1/videos/Pesado - Si mides el tamaño [Canciones con letra]-RTTEuupjXlc.mp4",
-            "size": 5.329129472
+            "path": "p1/videos/Pesado - Si mides el tamaño [Canciones con letra]-RTTEuupjXlc.mp4",
+            "size": 5.329129472,
+            "url": "https://github.com/circuitalmynds/music_p1/blob/main/videos/Pesado - Si mides el tamaño [Canciones con letra]-RTTEuupjXlc.mp4?raw=true"
         },
         {
             "name": "Platero y Tu - El roce de tu cuerpo-oApqXiCbqjo.mp4",
-            "path": "music_p1/videos/Platero y Tu - El roce de tu cuerpo-oApqXiCbqjo.mp4",
-            "size": 8.913206272
+            "path": "p1/videos/Platero y Tu - El roce de tu cuerpo-oApqXiCbqjo.mp4",
+            "size": 8.913206272,
+            "url": "https://github.com/circuitalmynds/music_p1/blob/main/videos/Platero y Tu - El roce de tu cuerpo-oApqXiCbqjo.mp4?raw=true"
         },
         {
             "name": "Marco Antonio Solís - Tu Carcel-3SSxbIi_hJ8.mp4",
-            "path": "music_p1/videos/Marco Antonio Solís - Tu Carcel-3SSxbIi_hJ8.mp4",
-            "size": 27.014110208
+            "path": "p1/videos/Marco Antonio Solís - Tu Carcel-3SSxbIi_hJ8.mp4",
+            "size": 27.014110208,
+            "url": "https://github.com/circuitalmynds/music_p1/blob/main/videos/Marco Antonio Solís - Tu Carcel-3SSxbIi_hJ8.mp4?raw=true"
         },
         {
             "name": "Pesado, Javier Rios - Mi Casa Nueva (Live at Nuevo León México)-5fllgZA0hv8.mp4",
-            "path": "music_p1/videos/Pesado, Javier Rios - Mi Casa Nueva (Live at Nuevo León México)-5fllgZA0hv8.mp4",
-            "size": 17.706483712
+            "path": "p1/videos/Pesado, Javier Rios - Mi Casa Nueva (Live at Nuevo León México)-5fllgZA0hv8.mp4",
+            "size": 17.706483712,
+            "url": "https://github.com/circuitalmynds/music_p1/blob/main/videos/Pesado, Javier Rios - Mi Casa Nueva (Live at Nuevo León México)-5fllgZA0hv8.mp4?raw=true"
         },
         {
             "name": "Pixies - Debaser (Demo 1)-0lUpnah94Eg.mp4",
-            "path": "music_p1/videos/Pixies - Debaser (Demo 1)-0lUpnah94Eg.mp4",
-            "size": 4.23300608
+            "path": "p1/videos/Pixies - Debaser (Demo 1)-0lUpnah94Eg.mp4",
+            "size": 4.23300608,
+            "url": "https://github.com/circuitalmynds/music_p1/blob/main/videos/Pixies - Debaser (Demo 1)-0lUpnah94Eg.mp4?raw=true"
         },
         {
             "name": "Para qué vuelvo contigo-mESGEOzDcSw.mp4",
-            "path": "music_p1/videos/Para qué vuelvo contigo-mESGEOzDcSw.mp4",
-            "size": 5.750152192000001
+            "path": "p1/videos/Para qué vuelvo contigo-mESGEOzDcSw.mp4",
+            "size": 5.750152192000001,
+            "url": "https://github.com/circuitalmynds/music_p1/blob/main/videos/Para qué vuelvo contigo-mESGEOzDcSw.mp4?raw=true"
         },
         {
             "name": "Primus - Tommy The Cat-r4OhIU-PmB8.mp4",
-            "path": "music_p1/videos/Primus - Tommy The Cat-r4OhIU-PmB8.mp4",
-            "size": 25.56409856
+            "path": "p1/videos/Primus - Tommy The Cat-r4OhIU-PmB8.mp4",
+            "size": 25.56409856,
+            "url": "https://github.com/circuitalmynds/music_p1/blob/main/videos/Primus - Tommy The Cat-r4OhIU-PmB8.mp4?raw=true"
         },
         {
             "name": "Peace Sells - Megadeth (original version)-aiQpRQeIiHY.mp4",
-            "path": "music_p1/videos/Peace Sells - Megadeth (original version)-aiQpRQeIiHY.mp4",
-            "size": 9.540099072
+            "path": "p1/videos/Peace Sells - Megadeth (original version)-aiQpRQeIiHY.mp4",
+            "size": 9.540099072,
+            "url": "https://github.com/circuitalmynds/music_p1/blob/main/videos/Peace Sells - Megadeth (original version)-aiQpRQeIiHY.mp4?raw=true"
         },
         {
             "name": "SINKING - The Cure (letra inglés + subtítulos español)-Qb5WmEXumS4.mp4",
-            "path": "music_p1/videos/SINKING - The Cure (letra inglés + subtítulos español)-Qb5WmEXumS4.mp4",
-            "size": 16.499943424
+            "path": "p1/videos/SINKING - The Cure (letra inglés + subtítulos español)-Qb5WmEXumS4.mp4",
+            "size": 16.499943424,
+            "url": "https://github.com/circuitalmynds/music_p1/blob/main/videos/SINKING - The Cure (letra inglés + subtítulos español)-Qb5WmEXumS4.mp4?raw=true"
         },
         {
             "name": "Plein de bisous-xGCJViX_tKc.mp4",
-            "path": "music_p1/videos/Plein de bisous-xGCJViX_tKc.mp4",
-            "size": 3.150094336
+            "path": "p1/videos/Plein de bisous-xGCJViX_tKc.mp4",
+            "size": 3.150094336,
+            "url": "https://github.com/circuitalmynds/music_p1/blob/main/videos/Plein de bisous-xGCJViX_tKc.mp4?raw=true"
         },
         {
             "name": "Giorgio Moroder - I Wanna Rock You [Remastered] (HD)-PTuaWSfwnj8.mp4",
-            "path": "music_p1/videos/Giorgio Moroder - I Wanna Rock You [Remastered] (HD)-PTuaWSfwnj8.mp4",
-            "size": 12.555303936000001
+            "path": "p1/videos/Giorgio Moroder - I Wanna Rock You [Remastered] (HD)-PTuaWSfwnj8.mp4",
+            "size": 12.555303936000001,
+            "url": "https://github.com/circuitalmynds/music_p1/blob/main/videos/Giorgio Moroder - I Wanna Rock You [Remastered] (HD)-PTuaWSfwnj8.mp4?raw=true"
         },
         {
             "name": "pesado dame una oportunidad-yuimytDcheI.mp4",
-            "path": "music_p1/videos/pesado dame una oportunidad-yuimytDcheI.mp4",
-            "size": 3.709667328
+            "path": "p1/videos/pesado dame una oportunidad-yuimytDcheI.mp4",
+            "size": 3.709667328,
+            "url": "https://github.com/circuitalmynds/music_p1/blob/main/videos/pesado dame una oportunidad-yuimytDcheI.mp4?raw=true"
         }
     ],
+    "ready_to_push": true,
     "total_size": 648.6752481280002
 }
